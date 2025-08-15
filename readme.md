@@ -55,7 +55,7 @@ zerodha-clone-main/
 git clone https://github.com/your-username/zerodha-clone.git
 cd zerodha-clone-main
 
-## 2️ Backend Setup
+### 2️ Backend Setup
 bash
 Copy
 Edit
@@ -74,7 +74,7 @@ bash
 Copy
 Edit
 npm start
-## 3️ Frontend Setup
+### 3️ Frontend Setup
 bash
 Copy
 Edit
@@ -84,7 +84,7 @@ npm start
 
 Holdings Section
 
-Contact
+** Contact **
 Mayank Gaur
 
 Email: mayankmanngaur@gmail.com
